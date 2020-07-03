@@ -1,5 +1,5 @@
 package main
-
+// Trigger actions.
 import (
 	"fmt"
 	"net/http"
